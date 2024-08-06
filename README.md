@@ -14,7 +14,7 @@
 -->
 
 ## About me 🧗‍♂️
-I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), with passion for create useful tools that can make processes easier and efficient 🥇.
+I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), with passion for creating useful tools that can make processes easier and efficient 🥇.
 
 ## 🔗 Contact me:
 - [Email: memocsales@gmail.com](mailto:memocsales@gmail.com)
@@ -26,4 +26,4 @@ I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), wit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
