@@ -17,8 +17,8 @@
 I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), with passion for creating useful tools that can make processes easier and efficient 🥇.
 
 ## 🔗 Contact me:
-- [Email: memocsales@gmail.com](mailto:memocsales@gmail.com)
-- [LinkedIn Profile: Manuel Guillermo Cruz Sales](https://www.linkedin.com/in/manuel-guillermo-cruz-sales-logistics07/)
+- Email: [memocsales@gmail.com](mailto:memocsales@gmail.com)
+- LinkedIn: [Manuel Guillermo Cruz Sales](https://www.linkedin.com/in/manuel-guillermo-cruz-sales-logistics07/)
 
 ## Languages and Tools 💻
 <p align=left>
