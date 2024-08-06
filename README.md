@@ -31,3 +31,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://www.redhat.com/rhdc/managed-files/Logo-Red_Hat-Academy-A-Red-RGB.png" alt="RedHatAcademy" width="200" height="50"/>
 </p>
+
+![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoCSales&show_icons=true&theme=transparent)
