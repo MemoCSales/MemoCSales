@@ -32,7 +32,7 @@
   <img src="https://www.redhat.com/rhdc/managed-files/Logo-Red_Hat-Academy-A-Red-RGB.png" alt="RedHatAcademy" width="200" height="50"/>
 </p>
 
-<p align=center>
+<div align=center>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoCSales&layout=compact&theme=dark&langs_count=6&hide=objective-c,makefile,cmake)](https://github.com/MemoCSales/github-readme-stats)
   ![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoCSales&show_icons=true&hide_title=true&theme=transparent)
-<\p>
+<\div>
