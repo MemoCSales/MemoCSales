@@ -21,6 +21,6 @@ I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), wit
 - [LinkedIn Profile: Manuel Guillermo Cruz Sales](https://www.linkedin.com/in/manuel-guillermo-cruz-sales-logistics07/)
 
 ## Languages and Tools 💻
-![C](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=c++)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
