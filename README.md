@@ -22,7 +22,7 @@
 - LinkedIn: [Manuel Guillermo Cruz Sales](https://www.linkedin.com/in/manuel-guillermo-cruz-sales-logistics07/)
 
 ## Languages and Tools 💻
-<p align=left>
+<p align=center>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
