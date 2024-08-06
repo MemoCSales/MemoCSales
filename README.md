@@ -33,6 +33,6 @@
 </p>
 
 <p align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoCSales&layout=compact&theme=dark&langs_count=6&hide=objective-c,makefile,cmake)](https://github.com/MemoCSales/github-readme-stats)
-![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoCSales&show_icons=true&hide_title=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemoCSales&layout=compact&theme=dark&langs_count=6&hide=objective-c,makefile,cmake)](https://github.com/MemoCSales/github-readme-stats)
+  ![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoCSales&show_icons=true&hide_title=true&theme=transparent)
 <\p>
