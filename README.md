@@ -35,5 +35,8 @@
 <div align=center>
   <a href="https://github.com/MemoCSales/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemoCSales&layout=compact&theme=dark&langs_count=6&hide=objective-c,makefile,cmake">
-  ![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemoCSales&show_icons=true&hide_title=true&theme=transparent)
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=MemoCSales&show_icons=true&hide_title=true&theme=transparent">
+  </a>
 <\div>
