@@ -14,3 +14,7 @@
 -->
 
 ## About me 🧗‍♂️
+
+## 🔗 Links
+- [Email](mailto:memocsales@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/manuel-guillermo-cruz-sales-logistics07/)
