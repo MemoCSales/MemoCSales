@@ -15,7 +15,7 @@
 
 ## About me 🧗‍♂️
 - I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), with passion for creating useful tools that can make processes easier and efficient 🥇.
-- 🌱 I am currently learning C++ and OpenShift
+- 🌱 I am currently learning Node.js and C++
 
 ## 📫 How to reach me::
 - Email: [memocsales@gmail.com](mailto:memocsales@gmail.com)
