@@ -15,7 +15,7 @@
 
 ## About me 🧗‍♂️
 - I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), with passion for creating useful tools that can make processes easier and efficient 🥇.
-- 🌱 I am currently learning Node.js and C++
+- 🌱 I am currently learning Node.js, Fastify and TypeScript to build a web application to play Pong
 
 ## 📫 How to reach me::
 - Email: [memocsales@gmail.com](mailto:memocsales@gmail.com)
