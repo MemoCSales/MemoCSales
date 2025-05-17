@@ -30,6 +30,13 @@
 | [**push_swap**](https://github.com/MemoCSales/42_push_swap) | ` C `| Push_swap is a sorting algorithm where the goal is to sort a list of integers using two stacks and a limited number of operations |
 | [**FdF**](https://github.com/MemoCSales/42_FdF) | ` C `| First graphical project of the 42 core curriculum, where you create a 3D wireframe map renderer from a set of elevation data, displayed in a 2D window using isometric projection |
 | [**pipex**](https://github.com/MemoCSales/42_pipex) | ` C `| This project is about understanding foundational UNIX and system programming with process management, piping and file descriptors |
+| [**philosophers**](https://github.com/MemoCSales/42_philosophers) | ` C `| This project is about understanding concurrency and multithreading concepts using the Dining Philosophers problem, a well-known computer science puzzle |
+| [**minishell**](https://github.com/MemoCSales/42_minishell) | ` C `| This project is about recreating a shell where, as a team of 2, put togethers our knowledge about processes, parsing, memory management, file descriptors, signals, and more |
+| [**cub3d**](https://github.com/MemoCSales/42_cub3D) | ` C `| Another graphical project dedicated to learn about raycasting, 2D and 3D rendering, and real-time graphics, similar to early 90s games like Wolfenstein 3D |
+| [**ft_irc**](https://github.com/MemoCSales/ft_irc) | ` C++ `| Introduction project to network programming. This project aims to create a multi-client chat server that follows parts of the IRC protocol (RFC 2812), handling multiple users, channels, commands, and proper network behavior |
+| [**C++ Modules**](https://github.com/MemoCSales/42_CPPModules) | ` C++ `| Short and concise  modules designed to understand modern C++ concepts and object-oriented programming (OOP) |
+| [**inception**](https://github.com/MemoCSales/inception) | ` Bash, Docker, docker-compose `| Advanced DevOps project and system administration. This project is focus on containerization and deploying services using Docker and Docker Compose |
+| [**ft_transcendence**](https://github.com/MemoCSales/ft_transcendence) | ` TypeScript, Node.js `| A full stack web development single page application. This 5 people team project aims to challenge us to learn a complete new stack of technologies in order to finish the 42 core curriculum. Our tech stack: TypeScript, TailwindCSS, Node.js (Fastify), SQLite, Docker, Docker Compose |
 
 
 
