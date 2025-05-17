@@ -21,6 +21,18 @@
 - Email: [memocsales@gmail.com](mailto:memocsales@gmail.com)
 - LinkedIn: [Manuel Guillermo Cruz Sales](https://www.linkedin.com/in/manuel-guillermo-cruz-sales-logistics07/)
 
+## Programming Projects
+| Project | Programming Language| Description |
+| ---------- | :----------: | ----------- |
+| [**libft**](https://github.com/MemoCSales/42_libft) | ` C `| This project aims to familiarize with C langauge by creating your own library from scratch without using any C standard libraries |
+| [**ft_printf**](https://github.com/MemoCSales/42_printf) | ` C `| Recreation of the large part of the stardard printf functionality in C |
+| [**get_next_line**](https://github.com/MemoCSales/42_get_next_line) | ` C `| This project is about reading from a file descriptor and returning one line at a time |
+| [**push_swap**](https://github.com/MemoCSales/42_push_swap) | ` C `| Push_swap is a sorting algorithm where the goal is to sort a list of integers using two stacks and a limited number of operations |
+| [**FdF**](https://github.com/MemoCSales/42_FdF) | ` C `| First graphical project of the 42 core curriculum, where you create a 3D wireframe map renderer from a set of elevation data, displayed in a 2D window using isometric projection |
+| [**pipex**](https://github.com/MemoCSales/42_pipex) | ` C `| This project is about understanding foundational UNIX and system programming with process management, piping and file descriptors |
+
+
+
 ## Languages and Tools 💻
 <p align=center>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
