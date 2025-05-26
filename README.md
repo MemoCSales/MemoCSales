@@ -1,4 +1,4 @@
-# Hi there, I'm Guillermo 👋
+# Hi there, I'm Manuel 👋
 
 <!--
 **MemoCSales/MemoCSales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,13 @@
 -->
 
 ## About me 🧗‍♂️
-- I'm a Software Developer Student at [42 Wolfsburg](https://42wolfsburg.de/), with passion for creating useful tools that can make processes easier and efficient 🥇.
-- 🌱 I am currently learning Node.js, Fastify and TypeScript to build a web application to play Pong
+- I'm a Logistics Engineer transcending into a Software Developer. 
+- I am interested in web development, open-source contributions and cybersecurity.
+- 🌱 Currently learning React + Typescript + Node.js (Fastify) to build a online invitation web app
 
 ## 📫 How to reach me::
-- Email: [memocsales@gmail.com](mailto:memocsales@gmail.com)
-- LinkedIn: [Manuel Guillermo Cruz Sales](https://www.linkedin.com/in/manuel-guillermo-cruz-sales-logistics07/)
+- Email: [guillermocsales@gmail.com](mailto:guillermocsales@gmail.com)
+
 
 ## Programming Projects
 | Project | Programming Language| Description |
