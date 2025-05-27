@@ -13,16 +13,13 @@
 - ⚡ Fun fact: ...
 -->
 
-## About me 🧗‍♂️
-- I'm a Logistics Engineer transcending into a Software Developer. 
-- I am interested in web development, open-source contributions and cybersecurity.
-- 🌱 Currently learning React + Typescript + Node.js (Fastify) to build a online invitation web app
+## 🔭 I’m currently working on
+- inviteRSVP (a web application for guest authentication and real-time RSVP tracking)
 
-## 📫 How to reach me::
-- Email: [guillermocsales@gmail.com](mailto:guillermocsales@gmail.com)
+## 🌱 Currently learning 
+- React + Typescript + Node.js (Fastify)
 
-
-## Programming Projects
+## Project that you should take a look at
 | Project | Programming Language| Description |
 | ---------- | :----------: | ----------- |
 | [**libft**](https://github.com/MemoCSales/42_libft) | ` C `| This project aims to familiarize with C langauge by creating your own library from scratch without using any C standard libraries |
