@@ -19,7 +19,9 @@
 ## 🌱 Currently learning 
 - React + Typescript + Node.js (Fastify)
 
-## Project that you should take a look at
+## 🔧 Projects that you should take a look at
+- **libft** - ` C ` - This project aims to familiarize with C langauge by creating your own library from scratch without using any C standard libraries
+
 | Project | Programming Language| Description |
 | ---------- | :----------: | ----------- |
 | [**libft**](https://github.com/MemoCSales/42_libft) | ` C `| This project aims to familiarize with C langauge by creating your own library from scratch without using any C standard libraries |
